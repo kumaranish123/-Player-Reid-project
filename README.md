@@ -2,8 +2,7 @@
 ```
 # Single-Feed Player Re-Identification
 
-Assignment for the AI-Intern role at Liat.ai  
-Author: Anish Kumar
+
 
 ## How to run
 ```bash
